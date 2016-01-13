@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+  width: 100%;
+  margin-left: -8px
+}
+.header {
+  height: 36px;
+  width: 1846px;
+  background-color: white;
+  margin-top: -8px;
+  }
+  .logo li {
+    color: #808080;
+    font-size: 14px;
+  }
+  .logo li+li {
+    margin-left: 28px;
+  }
+.flooter {
+  height: 50px;
+  width: 1846px;
+  background-color: blue;
+  margin-top: 601px;
+}
+li {
+  display: inline;
+}
+.langue {
+  float: right;
+    margin-right: 300px;
+    margin-top: -18px;
+}
+.langue li {
+  color:#808080;
+  font-size: 14px;
+
+}
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 85px;
+}
+.back {
+  position: absolute;
+  background-image: url(http://tremendouswallpapers.com/wp-content/uploads/2014/12/amazing_eiffel_tower_paris_hd_travel_photos_and_wallpapers.jpg);
+  height: 100%;
+  width: 100%;
+}
+.logo {
+  margin-top: 8px;
+  margin-left: 439px;
+}
+.logot {
+  position: absolute;
+  height: 40px;
+  margin-top: -11px;
+  margin-left: -35px;
+}
+h1 {
+  color:white;
+}
+.connect {
+  font-size: 20px;
+  color: white;
+}
