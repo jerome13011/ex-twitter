@@ -33,6 +33,14 @@ li {
   margin-right: 300px;
   margin-top: -18px;
 }
+/*.boutonl {
+  overflow-y: hidden;
+  overflow-x: scroll;
+  border: 1px solid #222;
+  width: 300px;
+  height: 300px;
+
+}*/
 .langue li {
   color: #808080;
   font-size: 14px;
@@ -45,7 +53,8 @@ li {
 }
 .back {
   position: absolute;
-  background-image: url(http://tremendouswallpapers.com/wp-content/uploads/2014/12/amazing_eiffel_tower_paris_hd_travel_photos_and_wallpapers.jpg);
+  background-image: url(http://www.exsel.re/wp-content/uploads/2014/01/ile-de-la-reunion-HD1.jpg);
+  background-position:-31px 964px;
   height: 962px;
   width: 1860px;
 }
@@ -90,6 +99,9 @@ h1 {
   margin-top: 52px;
   margin-left: 923px;
   border-radius: 7px;
+}
+.cash2 p {
+  color: #808080;
 }
 .email {
   width: 273px;
