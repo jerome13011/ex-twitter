@@ -1,11 +1,12 @@
 html {
   height: 100%;
   width: 100%;
-  margin-left: -8px
+  margin-left:-8px;
+  margin-right: -8px;
 }
 .header {
   height: 36px;
-  width: 1846px;
+  width: 1860px;
   background-color: white;
   margin-top: -8px;
 }
@@ -18,9 +19,11 @@ html {
 }
 .flooter {
   height: 50px;
-  width: 1846px;
-  background-color: blue;
-  margin-top: 260px;
+  width: 1034px;
+  margin-top: 476px;
+  margin-left: 231px;
+  font-size: 12px;
+  color: white;
 }
 li {
   display: inline;
@@ -43,8 +46,8 @@ li {
 .back {
   position: absolute;
   background-image: url(http://tremendouswallpapers.com/wp-content/uploads/2014/12/amazing_eiffel_tower_paris_hd_travel_photos_and_wallpapers.jpg);
-  height: 948px;
-  width: 1846px;
+  height: 962px;
+  width: 1860px;
 }
 .logo {
   margin-top: 8px;
@@ -87,13 +90,13 @@ h1 {
   margin-top: 52px;
   margin-left: 923px;
   border-radius: 7px;
-  }
+}
 .email {
   width: 273px;
   height: 20px;
   border-radius: 5px;
   margin-top: 10px;
-  color:#808080;
+  color: #808080;
 }
 .password {
   width: 158px;
@@ -119,5 +122,54 @@ h1 {
   font-size: 13px;
   margin-top: 7px;
   margin-left: -21px;
-  color:#808080;
+  color: #808080;
+}
+.nom {
+  margin-top: 10px;
+  font-size: 13px;
+  width: 274px;
+  height: 23px;
+  border-radius: 4px;
+  color: #808080;
+}
+.adress {
+  margin-top: 6px;
+  font-size: 13px;
+  width: 274px;
+  height: 23px;
+  border-radius: 4px;
+  color: #808080;
+}
+.mdp {
+  margin-top: 6px;
+  font-size: 13px;
+  width: 274px;
+  height: 23px;
+  border-radius: 4px;
+  color: #808080;
+}
+.inscription {
+  margin-top: 8px;
+  background-color: #FFC648;
+  width: 166px;
+  height: 35px;
+  margin-left: 112px;
+  border-radius: 7px;
+  font-size: 15px;
+}
+.janvier {
+  position: absolute;
+  margin-top: 263px;
+  margin-left: 468px;
+}
+.janvier h2 {
+  font-size: 15px;
+  color: white;
+}
+.janvier p {
+  margin-left: -179px;
+  color: white;
+}
+.janvier p+p {
+  margin-left: -225px;
 }
